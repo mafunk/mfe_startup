@@ -13,3 +13,4 @@ if (process.env.NODE_ENV === "development") {
 }
 
 export { mount };
+export default mount;
